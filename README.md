@@ -1,0 +1,2 @@
+# React State Update Not Rendering Bug
+This repository demonstrates a common React bug where a state update does not trigger a re-render, resulting in the UI not reflecting the changes made to the state.  The bug is within a functional component.  The solution demonstrates how to correctly update state to trigger a re-render.
